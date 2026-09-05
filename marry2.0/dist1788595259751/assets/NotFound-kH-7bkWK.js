@@ -1,0 +1,1 @@
+import{_ as s,D as o,c as n,b as e}from"./index-8_bJhdQ8.js";const r={},a={class:"min-h-screen bg-gray-100 p-8"};function c(d,t){return o(),n("div",a,[...t[0]||(t[0]=[e("h1",{class:"text-3xl font-bold text-gray-800 mb-4"},"404 Not Found",-1),e("p",{class:"text-gray-600"},"您访问的页面不存在",-1)])])}const _=s(r,[["render",c]]);export{_ as default};
