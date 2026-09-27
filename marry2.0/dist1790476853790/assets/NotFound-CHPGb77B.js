@@ -1,1 +1,0 @@
-import{_ as s,b as o,c as n,e as t}from"./index-C5q-ukHU.js";const r={},a={class:"min-h-screen bg-gray-100 p-8"};function c(d,e){return o(),n("div",a,[...e[0]||(e[0]=[t("h1",{class:"text-3xl font-bold text-gray-800 mb-4"},"404 Not Found",-1),t("p",{class:"text-gray-600"},"您访问的页面不存在",-1)])])}const _=s(r,[["render",c]]);export{_ as default};
